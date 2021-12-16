@@ -14,5 +14,5 @@ _G.DrakExplorerColors2 = { -- Color override by inheritance
 ["BasePart"] = Color3.new(0.4, 0.4, 0.4)
 }]]
 
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/drakker33/rblxexplorer/main/Explorer.lua"), true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/drakker33/rblx-explorer/main/Explorer.lua"), true))()
 ```
